@@ -1,0 +1,23 @@
+{
+  "name": "core-f",
+  "version": "1.0.0",
+  "description": "Core Functions for all Project Dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asir-Sam/Core-Functions.git"
+  },
+  "author": "Asir Sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asir-Sam/Core-Functions/issues"
+  },
+  "homepage": "https://github.com/Asir-Sam/Core-Functions#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
