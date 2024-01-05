@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "PowerPointManagement",
+			"path": "../../../PowerPointManagement"
+		},
+		{
+			"name": "Learn-react-withme",
+			"path": "../../../Learn-react-withme"
+		},
+		{
+			"name": "Core-Functions",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
