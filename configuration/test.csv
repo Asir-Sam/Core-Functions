@@ -1,0 +1,8 @@
+Theme Name,Theme Desc,CSS file location
+lightblue,Light Blue,gengui/css/GenGUIStylesLightBlue.css
+tsbb,Orange,gengui/css/GenGUIStylesTSBB.css
+tsbbnew,Dark Blue,gengui/css/GenGUIStylesTSBBNew.css
+darkred,Dark Red,gengui/css/GenGUIStylesDarkRed.css
+iams,Grey,gengui/css/GenGUIStylesIAMS.css
+darkorange,Dark orange,gengui/css/GenGUIStylesDarkOrange.css
+dark,Dark Mode,gengui/css/GenGuiDark.css

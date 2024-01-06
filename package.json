@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "core-f",
   "version": "1.0.0",
   "description": "Core Functions for all Project Dependencies",
